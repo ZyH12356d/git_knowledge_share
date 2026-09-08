@@ -1,0 +1,18 @@
+{
+  "appName": "Demo Application",
+  "version": "1.0.0",
+  "database": {
+    "host": "localhost",
+    "port": 5432,
+    "name": "demo_db"
+  },
+  "api": {
+    "baseUrl": "http://localhost:3000",
+    "timeout": 5000
+  },
+  "features": {
+    "authentication": true,
+    "logging": true,
+    "caching": false
+  }
+}
