@@ -3,7 +3,7 @@
 class UserManager {
     constructor() {
         this.users = [];
-        this.version = '1.0.2';
+        this.version = '1.0.3';
     }
 
     addUser(name, email) {
