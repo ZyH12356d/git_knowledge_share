@@ -4,6 +4,8 @@ This repository contains demo files to practice resolving git merge conflicts.
 
 ## Setup Instructions
 
+
+
 ### 1. Initialize the repository (if not already done)
 ```bash
 git init
@@ -62,3 +64,9 @@ git commit -m "Resolved merge conflicts"
 1. **demo-code.js** - JavaScript file with function conflicts
 2. **demo-config.json** - Configuration file with setting conflicts
 3. **demo-document.md** - Documentation file with content conflicts
+
+
+
+
+
+
